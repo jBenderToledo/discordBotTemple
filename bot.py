@@ -19,10 +19,10 @@ deleted_log_dir_name = "deleted/" + server_name + datetime.now().strftime("%Y")
 
 
 # Change the following to match your target server
-admin_id = 482655890537840660
+admin_id = "REDACTED"
 admin_role = 'admin'
 
-moderator_id = 482378769605328916
+moderator_id = "REDACTED"
 moderator_role = 'moderator'
 # -----------------------------------------------
 
